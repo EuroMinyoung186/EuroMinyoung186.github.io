@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dosung Lee"
-description              : "Graduate student "
+title                    : "Minyoung Kim"
+description              : "B.S. student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dosung Lee"
+  name             : "Minyoung Kim"
   avatar           : "images/me.png"
   bio              : "Korea University"
   location         : "Republic of Korea"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "dslee1219@korea.ac.kr"
+  email            : "omniverse186@korea.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leeds1219"
+  github           : "EuroMinyoung186"
   google_plus      :
   keybase          :
   instagram        :
