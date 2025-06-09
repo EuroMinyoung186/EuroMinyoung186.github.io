@@ -39,7 +39,7 @@ Hello! I'm Minyoung Kim. I am currently a undergraduate research student of <a h
 
 # 📝 Publications 
 ``Interspeech 2025`` [Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries](https://eurominyoung186.github.io/CMW_SAVF/)<br>
-Minyoung Kim  Sehwan Park  Sungmin Cha  Paul Hongsuck Seo
+ ***Minyoung Kim***  Sehwan Park  Sungmin Cha  Paul Hongsuck Seo
 
 ``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
 Dosung Lee*  Wonjun Oh*  Boyoung Kim  ***Minyoung Kim***  Joonsuk Park†  Paul Hongsuck Seo†
