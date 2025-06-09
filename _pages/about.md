@@ -38,7 +38,7 @@ Hello! I'm Minyoung Kim. I am currently a undergraduate research student of <a h
 - [2024.07.01 ~ 2024.08.06] **Corporate Sponsorship Award, 2024 SW-Centered University Digital Competition (AI Category)**
 
 # 📝 Publications 
-``Interspeech 2025`` [Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries](https://eurominyoung186.github.io/CMW_SAVF/)
+``Interspeech 2025`` [Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries](https://eurominyoung186.github.io/CMW_SAVF/)<br>
 Minyoung Kim  Sehwan Park  Sungmin Cha  Paul Hongsuck Seo
 
 ``ACL 2025`` [ReSCORE: Label-free Iterative Retriever Training for Multi-hop Question Answering with Relevance-Consistency Supervision](https://leeds1219.github.io/ReSCORE/) [![](https://img.shields.io/github/stars/leeds1219/ReSCORE?style=social&amp;label=Stars)](https://leeds1219.github.io/ReSCORE/)<br>
