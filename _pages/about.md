@@ -32,17 +32,17 @@ research areas that could contribute to the development of more general AI syste
 - 💡 I love exploring cutting-edge technologies like **World Model**, **Vision-Language-Action**, **Generative Model** and **Digital Watermarking**.  
 - 🌱 Currently, I'm diving deeper into **World Model** and **Vision-Language-Action**.
 
-# Experience
-**[2026.03 ~ Present]** **Research Intern**, [Algorithmic Intelligence Laboratory (ALIN)](https://alinlab.kaist.ac.kr/), KAIST (Advised by [Prof. Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html))<br>
-**[2024.08 ~ 2026.02]** **Research Intern**, [Multimodal Interactive Intelligence Lab (MIIL)](https://miil.korea.ac.kr/), Korea University (Advised by [Prof. Paul Hongsuck Seo](https://phseo.github.io/))
-
-# Education
-[2023.03.01 ~ Present] **B.S. in Computer Science and Engineering, Korea University**
-
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026 Findings.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by Interspeech 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
+
+# 🎓 Education
+[2023.03.01 ~ Present] **B.S. in Computer Science and Engineering, Korea University**
+
+# 💻 Experience
+**[2026.03 ~ Present]** **Research Intern**, [Algorithmic Intelligence Laboratory (ALIN)](https://alinlab.kaist.ac.kr/), KAIST (Advised by [Prof. Jinwoo Shin](https://alinlab.kaist.ac.kr/shin.html))<br>
+**[2024.08 ~ 2026.02]** **Research Intern**, [Multimodal Interactive Intelligence Lab (MIIL)](https://miil.korea.ac.kr/), Korea University (Advised by [Prof. Paul Hongsuck Seo](https://phseo.github.io/))
 
 # 🎖 Honors and Awards
 - [2023.11.25 ~ 2023.11.26] **2nd Place, 2023 iNThon**
