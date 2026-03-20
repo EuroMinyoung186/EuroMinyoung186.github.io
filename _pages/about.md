@@ -40,7 +40,7 @@ research areas that could contribute to the development of more general AI syste
 [2023.03.01 ~ Present] **B.S. in Computer Science and Engineering, Korea University**
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026 Findings.
+- *2026.02*: &nbsp;🎉🎉 One paper has been accepted by CVPR 2026 Findings.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by Interspeech 2025.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL 2025.
 
